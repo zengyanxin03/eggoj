@@ -14,5 +14,7 @@
 ### 系统功能
 <img width="1322" height="626" alt="image" src="https://github.com/user-attachments/assets/1f0f90af-4691-4f95-9878-f7edaff2be90" />
 
-### 微服务划分
+### 判题模块和代码沙箱的关系
+<img width="1008" height="424" alt="image" src="https://github.com/user-attachments/assets/00888e2f-46fd-4e4e-b97e-3bf68aeda56f" />
+
 
