@@ -7,4 +7,5 @@
 
 ### 核心业务流程
 
-![image-20261017032625433](C:\Users\betty\AppData\Roaming\Typora\typora-user-images\image-20261017032625433.png)
+<img width="1418" height="502" alt="image" src="https://github.com/user-attachments/assets/d2821ee0-1c24-420e-8b03-3e3c118e34e1" />
+
