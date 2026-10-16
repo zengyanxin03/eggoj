@@ -12,10 +12,7 @@
 <img width="1964" height="986" alt="image" src="https://github.com/user-attachments/assets/bfe4e45e-5f06-4e7d-acff-fe64220b6248" />
 
 ### 系统功能
-<img width="1300" height="620" alt="image" src="https://github.com/user-attachments/assets/309fa70b-8263-44b6-b4e2-ba1f9b385601" />
+<img width="1322" height="626" alt="image" src="https://github.com/user-attachments/assets/1f0f90af-4691-4f95-9878-f7edaff2be90" />
 
 ### 微服务划分
-依赖服务：
-注册中心：Nacos
-微服务网关（eggoj-backend-gateway）：Gateway聚合所有的接口，统一接收前端的请求
-公共模块：
+
