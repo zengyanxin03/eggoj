@@ -72,7 +72,7 @@
 
 ​	d. 开放接口（提供一个独立的新服务）
 
-代码沙箱服务本身就是独立的，不用纳入 Spring Cloud 的管理
+代码沙箱服务（eggoj-code-sandbox）本身是独立的服务，不用纳入 Spring Cloud 的管理
 
 ### 项目界面
 <img width="2490" height="1038" alt="image" src="https://github.com/user-attachments/assets/adc2b7c0-23c6-4382-b4e9-a40a9f148bb7" />
@@ -80,5 +80,4 @@
 <img width="2506" height="952" alt="image" src="https://github.com/user-attachments/assets/70ca9271-b04c-4c1d-87d5-024f290a4954" />
 
 <img width="2478" height="1306" alt="image" src="https://github.com/user-attachments/assets/9a0c33a1-06a4-43b7-a992-cda39ad4b2d0" />
-
 
