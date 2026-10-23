@@ -74,6 +74,8 @@
 
 代码沙箱服务（eggoj-code-sandbox）本身是独立的服务，不用纳入 Spring Cloud 的管理
 
+master分支是eggoj平台的前端代码
+
 ### 项目界面
 <img width="2490" height="1038" alt="image" src="https://github.com/user-attachments/assets/adc2b7c0-23c6-4382-b4e9-a40a9f148bb7" />
 
